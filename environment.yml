@@ -1,0 +1,6 @@
+name: locate_marsquakes
+channels: 
+    - conda-forge
+dependencies:
+    - obspy
+    - ipympl
